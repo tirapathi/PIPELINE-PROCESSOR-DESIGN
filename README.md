@@ -50,3 +50,7 @@ Performance Analysis
 
 The designed pipelined processor improves overall instruction throughput because multiple instructions overlap in execution. Once the pipeline is filled, the processor completes one instruction per clock cycle. The latency of a single instruction remains four cycles, but throughput increases significantly.
 The design uses minimal hardware: a register file, ALU, pipeline registers, and instruction memory. Power consumption is low due to simple combinational and sequential blocks. The architecture scales well, meaning new instructions, hazard units, and forwarding mechanisms can be added easily.
+
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/bd7dcc8d-a70a-48c1-b7cc-7a9eb8cb5a2f)
