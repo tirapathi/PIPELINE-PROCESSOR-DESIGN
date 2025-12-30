@@ -53,4 +53,4 @@ The design uses minimal hardware: a register file, ALU, pipeline registers, and 
 
 *OUTPUT*: 
 
-![Image](https://github.com/user-attachments/assets/bd7dcc8d-a70a-48c1-b7cc-7a9eb8cb5a2f)
+
