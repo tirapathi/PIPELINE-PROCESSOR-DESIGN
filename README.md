@@ -1,15 +1,5 @@
 # PIPELINE-PROCESSOR-DESIGN
 
-*COMPANY*: CODTECH IT SOLUTIONS PVT LTD
-
-*NAME*: GUJJULA TIRUPATHI REDDY
-
-*INTERN ID*: CTIS0865
-
-*DOMAIN*: VLSI
-
-*DURATION*: 24 WEEKS
-
 *DESCRIPTION*:
 
 A pipelined processor is a type of CPU architecture that improves instruction throughput by dividing instruction execution into multiple stages, allowing multiple instructions to be in progress simultaneously. In this project, a 4-stage pipelined processor was designed using Verilog HDL, supporting three basic instructions: ADD, SUB, and LOAD. The four stages implemented are Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), and Write Back (WB). The goal of the project was to understand pipeline architecture, instruction flow, hardware design using Verilog, and simulation using Vivado.
